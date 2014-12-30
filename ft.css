@@ -1,0 +1,33 @@
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:12px;
+	font-weight:normal;
+	color:#666666;
+	background-color:#ffff00;
+	background-image: url(images/mainBg.jpg);
+}
+
+
+.bluemain 
+	{
+		font-size:14px;
+		color:#85C226;
+	}
+.white
+	{
+		color:#FFFFFF;
+	}
+
+a
+	{
+		text-decoration:none; color:#AB3C31;
+	}
+	
+a:hover
+		{
+			text-decoration:underline; color:#AB3C31;
+		}
